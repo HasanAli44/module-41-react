@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "model": "Apple Watch Series 9",
+    "price": 399
+  },
+  {
+    "id": 2,
+    "model": "Galaxy Watch 6",
+    "price": 349
+  },
+  {
+    "id": 3,
+    "model": "Forerunner 955",
+    "price": 499
+  },
+  {
+    "id": 4,
+    "model": "Fitbit Sense 2",
+    "price": 299
+  },
+  {
+    "id": 5,
+    "model": "Amazfit GTR 4",
+    "price": 199
+  }
+]
+
